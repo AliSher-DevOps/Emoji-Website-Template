@@ -1,4 +1,4 @@
-# Emoji-Website-Template
+# Emoji-Website-Template in Django
 ✂️ Copy and 📋 Paste Emoji 👍
 
 Emojis are supported on iOS, Android, macOS, Windows, Linux and ChromeOS. Copy and paste emojis for Twitter, Facebook, Slack, Instagram, Snapchat, Slack, GitHub, Instagram, WhatsApp and more.
